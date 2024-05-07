@@ -1,0 +1,163 @@
+Operating Procedures 
+of 
+the Trading Platform 
+of 
+Open -end Mutual Fund
+(OCS)AMC
+•Investor 
+will 
+Collect 
+buy order 
+formBroker
+•Fill the form 
+with 
+attachments 
+like NID, BO 
+Ack, cheque 
+leaf etc.Investor
+•Transfer 
+money to 
+AMCCustodian
+•Generate Unit 
+fund for 
+investor after 
+positive 
+instruction 
+from AMCCDBL
+•Transfer 
+units to 
+investorOEMF Single Order Processing
+•Orange color represents the sale order process
+•Blue color represents the buy order process
+•Existing system (manual) requires a lot of time for redemption 
+•Proposed OCS will complete the order processing cycle within T+2Investor
+•Investor will 
+Collect 
+redemption 
+order formBroker
+•Fill the form 
+with 
+attachments 
+like NID, BO 
+Ack, cheque 
+leaf etc.
+•Inform 
+CustodianAMC
+•Process broker 
+request and 
+forward to 
+custodianCustodian
+•Redemption 
+process with 
+AMC approvalAMC
+•Transfer money 
+to the 
+investor’s bank 
+account Investor’s BO 
+account gets 
+credited with 
+the respective 
+broker house
+Investor’s Bank 
+account gets 
+creditedSystem 
+process
+Place Buy 
+OrderSignUp / 
+Login
+System 
+process
+Place Sale 
+OrderSignUp  / 
+Login
+OCS PlatformManual System   Automation Vs
+Chittagong  Stock  Exchange  PLC (CSE)                                                                                                          Order Collecti on System (OCS)Order Collection System (OCS)
+Chittagong  Stock  Exchange  PLC (CSE)                                                                                                          Order Collecti on System (OCS)Stake -Holders of Capital Market
+•Bangladesh Securities & Exchange Commission (BSEC)
+•Chittagong Stock  Exchange  PLC (CSE)
+•Central  Depository  Bangladesh  Ltd. (CDBL)
+•CCBL  or CNS (CSE)
+•Asset  Management  Companies  (AMC)
+•Custodians
+•TREC Holders
+•Investor s
+Chittagong  Stock  Exchange  PLC (CSE)                                                                                                          Order Collecti on System (OCS)OCS -> Scope in Capital Market Eco -System
+Chittagong  Stock  Exchange  PLC (CSE)                                                                                                          Order Collecti on System (OCS)AMC
+•Upload Fund’s 
+basic information
+•Attachments of 
+legal documentsCSE
+•Exchange verifies 
+legal issues for 
+approvalAMC
+•Uploads financial 
+data
+•This is a regular 
+& mandatory 
+processThe fund 
+become active 
+to collect 
+orders from 
+investors or 
+brokersOCS-> Mutual Fund Listing Steps
+AMC have to update financial data like NAV, 
+Buy/Redemption price, daily limit on a regular basisBasic Information Includes
+•Fund size, paid up capital, custodian, 
+trustee etc.
+•BSEC approval must be added as legal 
+documentsStakeholders
+•BSEC
+•Exchange (CSE)
+•AMC
+*All the steps are designed by maker -checkerOCS-> Order Process Flow Broker 
+upload/download 
+investors data at back 
+office
+XML file
+Investor/Broker place 
+buy/sell orders using 
+terminal/mobile app
+Broker approves/rejects all 
+orders 
+Exchange approves the 
+orders. (Final approval)AMC account 
+debited/credited
+&
+Client account 
+credited/debitedCNS downloads trade file 
+for settlement
+Stakeholders
+•Exchange (CSE)
+•Broker
+•AMC
+•Client/Investor
+•CNS Department of 
+ExchangeStarting Business 
+Hours
+At the End of the 
+Business HoursBusiness Day 
+Ended
+Chittagong  Stock  Exchange  PLC (CSE)                                                                                                          Order Collecti on System (OCS)Chittagong  Stock  Exchange  PLC (CSE)                                                                                                          Order Collecti on System (OCS)Chittagong  Stock  Exchange  PLC (CSE)                                                                                                          Order Collecti on System (OCS)OCS -> Order Placement (Investor)
+CNS settles all the orders and 
+monetary transaction with broker, 
+AMC, CDBL(if needed )
+Exchange Approve orders
+Broker approve or rejects orders
+Investors place buy/redemption 
+order of unit funds using web portal 
+or mobile app
+Notifications
+After placing 
+buy/redemption order, 
+investor will get notified 
+for every step of action. 
+Chittagong  Stock  Exchange  PLC (CSE)                                                                                                          Order Collecti on System (OCS)Benefits
+•Transparency of Eco -System
+•Direct  Access  to the portal  of all stake -holders
+•Instant supervision of authorities.
+•Strategic  Investment  Plan  (SIP)
+•Developing investors’ confidence  on OEMF
+•No manual operation onwards at Bangladesh
+•Focusing  on the Mutual  Funds.
+•Faster  settlement  both  money  & units .
+Chittagong  Stock  Exchange  PLC (CSE)                                                                                                          Order Collecti on System (OCS)Chittagong  Stock  Exchange  PLC (CSE)                                                                                                          Order Collecti on System (OCS)
